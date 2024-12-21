@@ -6,8 +6,11 @@ StudyGroupIncentives
 
 ## Project Description
 StudyGroupIncentives is a decentralized incentivization system built on Ethereum. It uses an ERC20 token to reward participants who attend and engage in educational sessions. Moderators can create sessions, and students can mark attendance during sessions. Upon completion, students can claim a reward in the form of tokens for their participation. The contract is built with security and non-reentrancy mechanisms to ensure fair reward distribution.
+
 ##Contact Address
 0xD6e8d020B4A4a24FaDE72ef12928C8cEF1FaB229
+![image](https://github.com/user-attachments/assets/253e2435-2f3f-42cc-aae8-a3413c2e3d1e)
+
 
 ## Project Vision
 The vision of StudyGroupIncentives is to create a blockchain-powered reward system that encourages active participation in study groups, educational seminars, and learning sessions. By leveraging smart contracts, we aim to provide a transparent and automated way to incentivize learners, helping them stay engaged and motivated throughout their educational journey.
